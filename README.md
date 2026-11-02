@@ -11,6 +11,7 @@ composition for Grafana.
 
 - [Grafana stack on Wodby](https://wodby.com/stacks/grafana)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [Grafana stack guide](https://wodby.com/docs/2.0/stacks/catalog/grafana/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 
